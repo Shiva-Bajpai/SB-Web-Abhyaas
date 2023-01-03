@@ -14,3 +14,6 @@ Daily progress notes.
 ### Jan 03, 2023 14:04
 - Added error handling
 
+### Jan 03, 2023 19:32
+- Cleaned up unused code
+
