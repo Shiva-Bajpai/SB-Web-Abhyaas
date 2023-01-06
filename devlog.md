@@ -20,3 +20,6 @@ Daily progress notes.
 ### Jan 05, 2023 22:15
 - Added error handling
 
+### Jan 06, 2023 09:56
+- Added error handling
+
