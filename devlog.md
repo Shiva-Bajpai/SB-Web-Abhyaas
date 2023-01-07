@@ -1190,3 +1190,6 @@ Daily progress notes.
 ### Jan 07, 2023 12:48
 - Added accessibility features
 
+### Jan 07, 2023 21:53
+- Updated color scheme
+
