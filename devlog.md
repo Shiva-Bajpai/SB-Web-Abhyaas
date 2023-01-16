@@ -47,3 +47,6 @@ Daily progress notes.
 ### Jan 15, 2023 22:31
 - Worked on component styling
 
+### Jan 16, 2023 15:50
+- Worked on component styling
+
