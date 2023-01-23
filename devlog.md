@@ -1238,3 +1238,6 @@ Daily progress notes.
 ### Jan 21, 2023 23:40
 - Fixed form validation
 
+### Jan 23, 2023 13:09
+- Improved user experience
+
