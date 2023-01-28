@@ -92,3 +92,6 @@ Daily progress notes.
 ### Jan 26, 2023 21:43
 - Added error handling
 
+### Jan 28, 2023 09:47
+- Fixed edge case bugs
+
