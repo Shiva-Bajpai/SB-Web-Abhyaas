@@ -1256,3 +1256,6 @@ Daily progress notes.
 ### Jan 29, 2023 13:21
 - Added accessibility features
 
+### Feb 01, 2023 12:26
+- Fixed mobile layout
+
