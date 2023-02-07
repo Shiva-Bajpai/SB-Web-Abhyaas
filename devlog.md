@@ -116,3 +116,6 @@ Daily progress notes.
 ### Feb 07, 2023 17:28
 - Cleaned up unused code
 
+### Feb 07, 2023 22:41
+- Improved animations
+
