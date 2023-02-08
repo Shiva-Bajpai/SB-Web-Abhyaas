@@ -1268,3 +1268,6 @@ Daily progress notes.
 ### Feb 04, 2023 10:49
 - Added error handling
 
+### Feb 08, 2023 23:04
+- Updated documentation
+
