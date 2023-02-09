@@ -122,3 +122,6 @@ Daily progress notes.
 ### Feb 09, 2023 09:36
 - Fixed form validation
 
+### Feb 09, 2023 17:30
+- Fixed mobile layout
+
