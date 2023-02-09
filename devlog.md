@@ -119,3 +119,6 @@ Daily progress notes.
 ### Feb 07, 2023 22:41
 - Improved animations
 
+### Feb 09, 2023 09:36
+- Fixed form validation
+
