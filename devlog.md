@@ -152,3 +152,6 @@ Daily progress notes.
 ### Feb 22, 2023 14:31
 - Updated dependencies
 
+### Feb 23, 2023 16:52
+- Fixed edge case bugs
+
