@@ -158,3 +158,6 @@ Daily progress notes.
 ### Feb 24, 2023 10:23
 - Improved responsiveness
 
+### Feb 24, 2023 17:16
+- Cleaned up unused code
+
