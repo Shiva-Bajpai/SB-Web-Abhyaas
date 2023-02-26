@@ -1295,3 +1295,6 @@ Daily progress notes.
 ### Feb 24, 2023 18:00
 - Updated color scheme
 
+### Feb 26, 2023 15:13
+- Fixed layout issues
+
