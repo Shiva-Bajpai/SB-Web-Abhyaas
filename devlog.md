@@ -1313,3 +1313,6 @@ Daily progress notes.
 ### Mar 07, 2023 08:24
 - Updated documentation
 
+### Mar 08, 2023 12:08
+- Worked on component styling
+
