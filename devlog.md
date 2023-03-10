@@ -1316,3 +1316,6 @@ Daily progress notes.
 ### Mar 08, 2023 12:08
 - Worked on component styling
 
+### Mar 10, 2023 10:33
+- Fixed mobile layout
+
