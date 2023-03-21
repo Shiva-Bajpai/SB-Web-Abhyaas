@@ -212,3 +212,6 @@ Daily progress notes.
 ### Mar 19, 2023 13:17
 - Added loading states
 
+### Mar 21, 2023 08:45
+- Fixed form validation
+
