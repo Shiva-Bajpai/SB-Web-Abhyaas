@@ -230,3 +230,6 @@ Daily progress notes.
 ### Mar 26, 2023 17:04
 - Updated color scheme
 
+### Mar 26, 2023 18:15
+- Updated documentation
+
