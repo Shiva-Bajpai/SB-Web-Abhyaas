@@ -263,3 +263,6 @@ Daily progress notes.
 ### Apr 04, 2023 15:00
 - Updated color scheme
 
+### Apr 04, 2023 21:37
+- Added error handling
+
