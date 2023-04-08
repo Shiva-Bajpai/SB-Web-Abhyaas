@@ -1358,3 +1358,6 @@ Daily progress notes.
 ### Apr 07, 2023 23:20
 - Added accessibility features
 
+### Apr 08, 2023 22:04
+- Fixed form validation
+
