@@ -290,3 +290,6 @@ Daily progress notes.
 ### Apr 09, 2023 23:58
 - Cleaned up unused code
 
+### Apr 12, 2023 09:18
+- Fixed layout issues
+
