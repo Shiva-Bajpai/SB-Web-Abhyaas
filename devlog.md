@@ -1364,3 +1364,6 @@ Daily progress notes.
 ### Apr 12, 2023 23:02
 - Updated color scheme
 
+### Apr 15, 2023 10:06
+- Updated documentation
+
