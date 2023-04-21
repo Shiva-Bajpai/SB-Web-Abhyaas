@@ -1385,3 +1385,6 @@ Daily progress notes.
 ### Apr 21, 2023 15:30
 - Updated color scheme
 
+### Apr 21, 2023 20:43
+- Worked on component styling
+
