@@ -320,3 +320,6 @@ Daily progress notes.
 ### Apr 20, 2023 11:54
 - Fixed mobile layout
 
+### Apr 21, 2023 08:30
+- Worked on component styling
+
