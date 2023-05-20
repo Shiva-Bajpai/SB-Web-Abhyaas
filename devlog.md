@@ -374,3 +374,6 @@ Daily progress notes.
 ### May 19, 2023 18:49
 - Updated color scheme
 
+### May 20, 2023 13:28
+- Refactored state management
+
