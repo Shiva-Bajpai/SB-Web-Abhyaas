@@ -386,3 +386,6 @@ Daily progress notes.
 ### May 25, 2023 21:08
 - Improved responsiveness
 
+### May 26, 2023 16:56
+- Fixed mobile layout
+
