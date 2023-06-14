@@ -1496,3 +1496,6 @@ Daily progress notes.
 ### Jun 12, 2023 16:16
 - Improved user experience
 
+### Jun 14, 2023 21:20
+- Worked on component styling
+
