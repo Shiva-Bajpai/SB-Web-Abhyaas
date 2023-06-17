@@ -446,3 +446,6 @@ Daily progress notes.
 ### Jun 17, 2023 17:53
 - Added loading states
 
+### Jun 17, 2023 20:45
+- Improved animations
+
