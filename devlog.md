@@ -443,3 +443,6 @@ Daily progress notes.
 ### Jun 17, 2023 16:02
 - Fixed mobile layout
 
+### Jun 17, 2023 17:53
+- Added loading states
+
