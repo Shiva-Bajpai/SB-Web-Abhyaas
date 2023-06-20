@@ -1508,3 +1508,6 @@ Daily progress notes.
 ### Jun 16, 2023 18:18
 - Fixed layout issues
 
+### Jun 20, 2023 08:35
+- Cleaned up unused code
+
