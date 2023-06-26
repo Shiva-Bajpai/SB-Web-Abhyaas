@@ -470,3 +470,6 @@ Daily progress notes.
 ### Jun 25, 2023 13:58
 - Updated documentation
 
+### Jun 26, 2023 14:02
+- Refactored state management
+
