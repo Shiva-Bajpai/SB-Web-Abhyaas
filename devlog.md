@@ -473,3 +473,6 @@ Daily progress notes.
 ### Jun 26, 2023 14:02
 - Refactored state management
 
+### Jun 27, 2023 23:49
+- Worked on component styling
+
