@@ -503,3 +503,6 @@ Daily progress notes.
 ### Jul 12, 2023 14:47
 - Fixed form validation
 
+### Jul 14, 2023 15:33
+- Improved responsiveness
+
