@@ -1625,3 +1625,6 @@ Daily progress notes.
 ### Aug 08, 2023 09:09
 - Added loading states
 
+### Aug 11, 2023 17:29
+- Added accessibility features
+
