@@ -1706,3 +1706,6 @@ Daily progress notes.
 ### Sep 12, 2023 08:57
 - Cleaned up unused code
 
+### Sep 14, 2023 14:17
+- Updated color scheme
+
