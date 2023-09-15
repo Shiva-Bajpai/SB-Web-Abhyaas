@@ -689,3 +689,6 @@ Daily progress notes.
 ### Sep 15, 2023 16:19
 - Fixed edge case bugs
 
+### Sep 15, 2023 17:07
+- Refactored state management
+
