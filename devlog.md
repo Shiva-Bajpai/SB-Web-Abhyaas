@@ -1808,3 +1808,6 @@ Daily progress notes.
 ### Oct 18, 2023 16:59
 - Worked on component styling
 
+### Oct 20, 2023 18:11
+- Cleaned up unused code
+
