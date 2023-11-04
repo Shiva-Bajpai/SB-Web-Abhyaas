@@ -791,3 +791,6 @@ Daily progress notes.
 ### Nov 02, 2023 22:53
 - Updated documentation
 
+### Nov 04, 2023 12:27
+- Fixed form validation
+
