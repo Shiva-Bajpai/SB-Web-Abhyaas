@@ -803,3 +803,6 @@ Daily progress notes.
 ### Nov 06, 2023 23:21
 - Fixed layout issues
 
+### Nov 08, 2023 10:19
+- Improved navigation
+
