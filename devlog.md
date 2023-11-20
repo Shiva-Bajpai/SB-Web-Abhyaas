@@ -1853,3 +1853,6 @@ Daily progress notes.
 ### Nov 15, 2023 09:02
 - Improved navigation
 
+### Nov 20, 2023 16:15
+- Added accessibility features
+
