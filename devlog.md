@@ -1871,3 +1871,6 @@ Daily progress notes.
 ### Nov 30, 2023 08:07
 - Added error handling
 
+### Nov 30, 2023 14:47
+- Worked on component styling
+
