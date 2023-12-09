@@ -899,3 +899,6 @@ Daily progress notes.
 ### Dec 08, 2023 18:55
 - Cleaned up unused code
 
+### Dec 09, 2023 16:26
+- Fixed mobile layout
+
