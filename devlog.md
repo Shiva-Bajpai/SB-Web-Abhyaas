@@ -1910,3 +1910,6 @@ Daily progress notes.
 ### Dec 18, 2023 09:00
 - Improved user experience
 
+### Dec 18, 2023 18:46
+- Fixed mobile layout
+
