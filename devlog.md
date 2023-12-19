@@ -1913,3 +1913,6 @@ Daily progress notes.
 ### Dec 18, 2023 18:46
 - Fixed mobile layout
 
+### Dec 19, 2023 18:05
+- Added error handling
+
