@@ -1946,3 +1946,6 @@ Daily progress notes.
 ### Jan 03, 2024 17:57
 - Fixed layout issues
 
+### Jan 04, 2024 13:00
+- Fixed form validation
+
