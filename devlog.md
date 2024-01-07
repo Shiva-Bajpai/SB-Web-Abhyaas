@@ -1952,3 +1952,6 @@ Daily progress notes.
 ### Jan 06, 2024 16:00
 - Added loading states
 
+### Jan 07, 2024 09:29
+- Added error handling
+
