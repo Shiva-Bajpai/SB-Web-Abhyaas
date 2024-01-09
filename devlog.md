@@ -1955,3 +1955,6 @@ Daily progress notes.
 ### Jan 07, 2024 09:29
 - Added error handling
 
+### Jan 09, 2024 08:22
+- Updated documentation
+
