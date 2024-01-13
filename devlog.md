@@ -1973,3 +1973,6 @@ Daily progress notes.
 ### Jan 11, 2024 13:23
 - Updated dependencies
 
+### Jan 13, 2024 10:17
+- Added loading states
+
