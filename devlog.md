@@ -1007,3 +1007,6 @@ Daily progress notes.
 ### Jan 13, 2024 22:11
 - Improved user experience
 
+### Jan 14, 2024 18:06
+- Fixed form validation
+
