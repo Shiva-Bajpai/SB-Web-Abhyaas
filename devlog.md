@@ -1019,3 +1019,6 @@ Daily progress notes.
 ### Jan 15, 2024 14:17
 - Fixed edge case bugs
 
+### Jan 15, 2024 21:46
+- Added loading states
+
