@@ -1976,3 +1976,6 @@ Daily progress notes.
 ### Jan 13, 2024 10:17
 - Added loading states
 
+### Jan 19, 2024 19:45
+- Fixed mobile layout
+
