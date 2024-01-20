@@ -1979,3 +1979,6 @@ Daily progress notes.
 ### Jan 19, 2024 19:45
 - Fixed mobile layout
 
+### Jan 20, 2024 23:00
+- Added error handling
+
