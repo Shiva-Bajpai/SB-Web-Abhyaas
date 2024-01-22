@@ -1052,3 +1052,6 @@ Daily progress notes.
 ### Jan 21, 2024 20:16
 - Updated color scheme
 
+### Jan 22, 2024 18:57
+- Fixed mobile layout
+
