@@ -1073,3 +1073,6 @@ Daily progress notes.
 ### Jan 28, 2024 22:09
 - Fixed edge case bugs
 
+### Jan 30, 2024 08:34
+- Fixed form validation
+
