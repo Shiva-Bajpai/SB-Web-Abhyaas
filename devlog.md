@@ -2006,3 +2006,6 @@ Daily progress notes.
 ### Feb 02, 2024 11:32
 - Updated documentation
 
+### Feb 05, 2024 14:14
+- Fixed mobile layout
+
