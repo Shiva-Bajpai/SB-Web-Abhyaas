@@ -1100,3 +1100,6 @@ Daily progress notes.
 ### Feb 07, 2024 14:39
 - Fixed layout issues
 
+### Feb 08, 2024 10:21
+- Worked on component styling
+
