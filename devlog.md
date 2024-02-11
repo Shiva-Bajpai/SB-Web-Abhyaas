@@ -1112,3 +1112,6 @@ Daily progress notes.
 ### Feb 10, 2024 08:57
 - Added error handling
 
+### Feb 11, 2024 11:46
+- Fixed form validation
+
