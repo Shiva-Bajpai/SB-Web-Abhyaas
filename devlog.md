@@ -1139,3 +1139,6 @@ Daily progress notes.
 ### Feb 15, 2024 08:37
 - Updated color scheme
 
+### Feb 16, 2024 12:38
+- Added error handling
+
