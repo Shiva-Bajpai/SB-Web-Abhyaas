@@ -2042,3 +2042,6 @@ Daily progress notes.
 ### Feb 16, 2024 23:11
 - Improved navigation
 
+### Feb 20, 2024 14:17
+- Improved animations
+
