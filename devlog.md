@@ -2057,3 +2057,6 @@ Daily progress notes.
 ### Feb 22, 2024 08:19
 - Fixed form validation
 
+### Feb 23, 2024 13:01
+- Updated documentation
+
