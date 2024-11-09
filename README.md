@@ -13,6 +13,7 @@ The goal of **Web Abhyaas** is to:
 ## 🌍 Websites Built in Web Abhyaas
 
 1. **ABHYAAS 01** => [See Live](https://sb-abhyaas1.netlify.app/)
+2. **ABHYAAS 01** =>[See Live](https://sb-abhyaas2.netlify.app)
 
 ## 🚀 Getting Started
 
