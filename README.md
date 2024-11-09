@@ -1,9 +1,4 @@
 https://sb-abhyaas1.netlify.app/
-
-Here’s a README template for your **Web Abhyaas** repository where you’ve built websites:
-
----
-
 # 🌐 Web Abhyaas - Websites by Shiva Bajpai
 
 Welcome to **Web Abhyaas**, a repository where I showcase my hands-on web development practice. Here, I’ve built various websites to experiment with different technologies, frameworks, and design patterns. Each project focuses on refining my skills and creating user-friendly, visually appealing websites.
