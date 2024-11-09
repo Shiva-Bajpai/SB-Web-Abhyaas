@@ -1,4 +1,3 @@
-https://sb-abhyaas1.netlify.app/
 # 🌐 Web Abhyaas - Websites by Shiva Bajpai
 
 Welcome to **Web Abhyaas**, a repository where I showcase my hands-on web development practice. Here, I’ve built various websites to experiment with different technologies, frameworks, and design patterns. Each project focuses on refining my skills and creating user-friendly, visually appealing websites.
@@ -13,13 +12,7 @@ The goal of **Web Abhyaas** is to:
 
 ## 🌍 Websites Built in Web Abhyaas
 
-1. **Know Shiva (Portfolio Website)**
-   - **Description**: My personal portfolio to showcase my projects, skills, and experience.
-   - **Features**: Smooth animations, interactive hover effects, responsive layout, and dynamic content updates.
-
-2. **Real Web Works**
-   - **Description**: A project showcasing a variety of web development services with a clean, professional layout.
-   - **Features**: Service cards, client testimonials, and responsive grid layout.
+1. **ABHYAAS 01** => [See Live](https://sb-abhyaas1.netlify.app/)
 
 ## 🚀 Getting Started
 
